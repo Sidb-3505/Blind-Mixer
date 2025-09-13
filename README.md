@@ -2,12 +2,24 @@ Blind-Date App
 
 📱 App Features
 
-Pixel-perfect UI – All screens match the given Figma designs precisely.
+✨ Pixel-Perfect UI – Every screen is implemented to match the Figma designs with precise spacing, colors, and typography.
 
-Responsive Design – Works smoothly across different screen sizes.
-Reusable Widgets – Buttons, cards, and bottom navigation built with consistency.
-Custom Bottom Navigation Bar – Integrated with smooth navigation between screens.
-State Management – Lightweight and clean handling of confirmation flows.
-Clean Codebase – Modular folder structure for easy maintainability.
-Demo Ready – Works on both emulators and real devices
+🖼️ Three Key Screens
 
+Mixer Screen – Clean layout with smooth interactions.
+
+Mixer-VIP Screen – Premium design replicated with attention to detail.
+
+Upgrade Homepage Screen – Designed to stay consistent with the theme, even though it was not included in the shared Figma.
+
+📐 Responsive Layout – Fully adaptable across different screen sizes and orientations.
+
+🔁 Reusable Components – Common widgets like buttons, cards, and containers are modular and consistently styled.
+
+🚀 Custom Bottom Navigation – Smooth tab switching with clear navigation handling.
+
+⚡ Lightweight State Management – Simple and clean confirmation flows without unnecessary complexity.
+
+🧹 Clean & Modular Codebase – Well-structured project with separated files for screens, widgets, constants, and theme.
+
+📽️ Demo Ready – Tested on both emulators and real devices to ensure smooth performance.
